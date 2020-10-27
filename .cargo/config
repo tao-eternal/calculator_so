@@ -1,0 +1,7 @@
+[target.aarch64-linux-android]
+ar = "aarch64-linux-android-ar.exe"
+linker = "aarch64-linux-android29-clang.cmd"
+
+[target.x86-64-linux-android]
+ar = "x86_64-linux-android-ar.exe"
+linker = "x86_64-linux-android29-clang.cmd"
